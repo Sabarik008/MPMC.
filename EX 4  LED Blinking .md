@@ -1,4 +1,4 @@
-# Automatic Sensor-Based LED Control System Using STM32
+# Automatic Sensor-Based LED Control System
 
 ## Aim
 
